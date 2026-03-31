@@ -1,0 +1,91 @@
+/**
+ * Add Sticky Bottom Ad to All HTML Files
+ * ---------------------------------------
+ * 📂 Scans `public` and `tools/public` folders
+ * 💾 Creates backups before editing
+ * 📱 Adds sticky Adsterra ad at bottom if not already added
+ */
+
+const fs = require("fs");
+const path = require("path");
+
+// Directories
+const SOURCE_DIRS = [
+  path.join(__dirname, "public"),
+  path.join(__dirname, "tools", "public"),
+];
+const BACKUP_DIRS = [
+  path.join(__dirname, "public-backup-html"),
+  path.join(__dirname, "tools-backup-html"),
+];
+
+// Sticky ad block
+const stickyAd = `
+<!-- 📱 Sticky Bottom Ad -->
+<div id="adsterra-sticky" style="position:fixed;bottom:0;left:0;width:100%;text-align:center;z-index:9999;background:#fff;padding:4px 0;box-shadow:0 -3px 10px rgba(0,0,0,0.1);">
+  <div id="container-b7c6b4998c406d004e3059afe0728b76"></div>
+  <script async data-cfasync="false" src="//pl27603070.effectivegatecpm.com/b7c6b4998c406d004e3059afe0728b76/invoke.js"></script>
+  <button onclick="document.getElementById('adsterra-sticky').remove()" style="position:absolute;right:5px;top:-8px;background:#000;color:#fff;border:none;border-radius:50%;width:25px;height:25px;cursor:pointer;">×</button>
+</div>
+`;
+
+function ensureBackupDir(baseDir, backupDir) {
+  if (!fs.existsSync(backupDir)) fs.mkdirSync(backupDir, { recursive: true });
+
+  const files = fs.readdirSync(baseDir);
+  for (const file of files) {
+    const src = path.join(baseDir, file);
+    const dest = path.join(backupDir, file);
+    const stat = fs.statSync(src);
+
+    if (stat.isDirectory()) {
+      ensureBackupDir(src, dest);
+    } else if (file.endsWith(".html")) {
+      fs.copyFileSync(src, dest);
+      console.log(`🗂️ Backup created: ${dest}`);
+    }
+  }
+}
+
+function addStickyAd(filePath) {
+  let html = fs.readFileSync(filePath, "utf8");
+
+  // Skip if sticky ad already exists
+  if (html.includes("adsterra-sticky")) {
+    console.log(`⏭️ Already has sticky ad: ${filePath}`);
+    return;
+  }
+
+  // Insert sticky ad before </body>
+  if (/<\/body>/i.test(html)) {
+    html = html.replace(/<\/body>/i, `${stickyAd}\n</body>`);
+  } else {
+    html += `\n${stickyAd}`;
+  }
+
+  fs.writeFileSync(filePath, html, "utf8");
+  console.log(`✅ Sticky ad added: ${filePath}`);
+}
+
+function processDir(srcDir, backupDir) {
+  ensureBackupDir(srcDir, backupDir);
+  const files = fs.readdirSync(srcDir);
+
+  for (const file of files) {
+    const fullPath = path.join(srcDir, file);
+    const stat = fs.statSync(fullPath);
+
+    if (stat.isDirectory()) {
+      processDir(fullPath, path.join(backupDir, file));
+    } else if (file.endsWith(".html")) {
+      addStickyAd(fullPath);
+    }
+  }
+}
+
+// Run the script
+console.log("🚀 Adding sticky bottom ads to all HTML files...");
+for (let i = 0; i < SOURCE_DIRS.length; i++) {
+  if (fs.existsSync(SOURCE_DIRS[i])) processDir(SOURCE_DIRS[i], BACKUP_DIRS[i]);
+}
+console.log("🎉 Done! Sticky ads successfully added to all HTML files.");

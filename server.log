@@ -1,0 +1,4 @@
+2025-08-10T05:23:11: Server running at http://0.0.0.0:3000
+2025-08-10T05:24:38: Conversion error: Error: No output file generated after 10 seconds
+2025-08-10T05:24:38:     at /home/ubuntu/fileconvert/server.js:265:27
+2025-08-10T05:24:38: Conversion error cleanupPaths is not defined

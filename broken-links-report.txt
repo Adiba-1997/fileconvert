@@ -1,0 +1,470 @@
+1. File: /blog-page3.html
+   → Broken link: /blog21.html
+
+2. File: /blog-page3.html
+   → Broken link: /blog22.html
+
+3. File: /blog-page3.html
+   → Broken link: /blog23.html
+
+4. File: /blog-page3.html
+   → Broken link: /blog24.html
+
+5. File: /blog-page3.html
+   → Broken link: /blog25.html
+
+6. File: /blog-page3.html
+   → Broken link: /blog26.html
+
+7. File: /blog-page3.html
+   → Broken link: /blog27.html
+
+8. File: /blog-page3.html
+   → Broken link: /blog28.html
+
+9. File: /blog-page3.html
+   → Broken link: /blog29.html
+
+10. File: /blog-page3.html
+   → Broken link: /blog30.html
+
+11. File: /blog1.html
+   → Broken link: /ocr-pdf-to-word.html
+
+12. File: /blog1.html
+   → Broken link: /pdf-split.html
+
+13. File: /blog1.html
+   → Broken link: /word-to-pdf.html
+
+14. File: /blog1.html
+   → Broken link: /pdf-merge.html
+
+15. File: /blog1.html
+   → Broken link: /pdf-compress.html
+
+16. File: /blog1.html
+   → Broken link: /ocr-pdf-to-word.html
+
+17. File: /blog10.html
+   → Broken link: /pdf-to-word.html
+
+18. File: /blog10.html
+   → Broken link: /pdf-compress.html
+
+19. File: /blog10.html
+   → Broken link: /add-pdf-password.html
+
+20. File: /blog11.html
+   → Broken link: /pdf-to-word.html
+
+21. File: /blog11.html
+   → Broken link: /pdf-to-word.html
+
+22. File: /blog11.html
+   → Broken link: /ocr-pdf-to-word.html
+
+23. File: /blog11.html
+   → Broken link: /pdf-to-png.html
+
+24. File: /blog11.html
+   → Broken link: /word-to-pdf.html
+
+25. File: /blog11.html
+   → Broken link: /pdf-to-text.html
+
+26. File: /blog11.html
+   → Broken link: /pdf-merge.html
+
+27. File: /blog11.html
+   → Broken link: /pdf-split.html
+
+28. File: /blog11.html
+   → Broken link: /ocr-pdf-to-word.html
+
+29. File: /blog11.html
+   → Broken link: /pdf-to-word.html
+
+30. File: /blog11.html
+   → Broken link: /ocr-pdf-to-word.html
+
+31. File: /blog12.html
+   → Broken link: /pdf-compress.html
+
+32. File: /blog12.html
+   → Broken link: /pdf-compress.html
+
+33. File: /blog12.html
+   → Broken link: /pdf-split.html
+
+34. File: /blog12.html
+   → Broken link: /pdf-merge.html
+
+35. File: /blog12.html
+   → Broken link: /remove-pages-pdf.html
+
+36. File: /blog12.html
+   → Broken link: /ocr-pdf-to-word.html
+
+37. File: /blog12.html
+   → Broken link: /remove-metadata-image.html
+
+38. File: /blog12.html
+   → Broken link: /compress-image.html
+
+39. File: /blog12.html
+   → Broken link: /remove-pdf-password.html
+
+40. File: /blog12.html
+   → Broken link: /pdf-compress.html
+
+41. File: /blog12.html
+   → Broken link: /pdf-split.html
+
+42. File: /blog12.html
+   → Broken link: /pdf-merge.html
+
+43. File: /blog12.html
+   → Broken link: /remove-pages-pdf.html
+
+44. File: /blog13.html
+   → Broken link: /pdf-merge.html
+
+45. File: /blog13.html
+   → Broken link: /pdf-merge.html
+
+46. File: /blog13.html
+   → Broken link: /pdf-repair.html
+
+47. File: /blog13.html
+   → Broken link: /pdf-compress.html
+
+48. File: /blog13.html
+   → Broken link: /add-pdf-password.html
+
+49. File: /blog13.html
+   → Broken link: /pdf-merge.html
+
+50. File: /blog14.html
+   → Broken link: /pdf-split.html
+
+51. File: /blog14.html
+   → Broken link: /pdf-split.html
+
+52. File: /blog14.html
+   → Broken link: /remove-pdf-password.html
+
+53. File: /blog14.html
+   → Broken link: /pdf-compress.html
+
+54. File: /blog14.html
+   → Broken link: /pdf-merge.html
+
+55. File: /blog14.html
+   → Broken link: /pdf-to-word.html
+
+56. File: /blog14.html
+   → Broken link: /pdf-to-image.html
+
+57. File: /blog14.html
+   → Broken link: /pdf-split.html
+
+58. File: /blog15.html
+   → Broken link: /pdf-repair.html
+
+59. File: /blog15.html
+   → Broken link: /pdf-repair.html
+
+60. File: /blog15.html
+   → Broken link: /pdf-to-text.html
+
+61. File: /blog15.html
+   → Broken link: /extract-pdf-images.html
+
+62. File: /blog15.html
+   → Broken link: /pdf-to-word.html
+
+63. File: /blog15.html
+   → Broken link: /pdf-to-jpg.html
+
+64. File: /blog15.html
+   → Broken link: /pdf-compress.html
+
+65. File: /blog15.html
+   → Broken link: /pdf-merge.html
+
+66. File: /blog15.html
+   → Broken link: /pdf-repair.html
+
+67. File: /blog16.html
+   → Broken link: /pdf-to-text.html
+
+68. File: /blog16.html
+   → Broken link: /ocr-pdf-to-word.html
+
+69. File: /blog16.html
+   → Broken link: /pdf-to-word.html
+
+70. File: /blog16.html
+   → Broken link: /pdf-to-excel.html
+
+71. File: /blog16.html
+   → Broken link: /pdf-to-text.html
+
+72. File: /blog16.html
+   → Broken link: /pdf-split.html
+
+73. File: /blog16.html
+   → Broken link: /pdf-to-text.html
+
+74. File: /blog17.html
+   → Broken link: /add-pdf-password.html
+
+75. File: /blog17.html
+   → Broken link: /ppt-to-pdf.html
+
+76. File: /blog17.html
+   → Broken link: /compress-pdf.html
+
+77. File: /blog17.html
+   → Broken link: /pdf-merge.html
+
+78. File: /blog17.html
+   → Broken link: /add-watermark-pdf.html
+
+79. File: /blog17.html
+   → Broken link: /ppt-to-pdf.html
+
+80. File: /blog18.html
+   → Broken link: /add-pdf-password.html
+
+81. File: /blog18.html
+   → Broken link: /excel-to-pdf.html
+
+82. File: /blog18.html
+   → Broken link: /pdf-split.html
+
+83. File: /blog18.html
+   → Broken link: /pdf-compress.html
+
+84. File: /blog18.html
+   → Broken link: /pdf-merge.html
+
+85. File: /blog18.html
+   → Broken link: /excel-to-pdf.html
+
+86. File: /blog18.html
+   → Broken link: /pdf-compress.html
+
+87. File: /blog18.html
+   → Broken link: /excel-to-pdf.html
+
+88. File: /blog19.html
+   → Broken link: /jpg-to-pdf.html
+
+89. File: /blog19.html
+   → Broken link: /add-pdf-password.html
+
+90. File: /blog19.html
+   → Broken link: /jpg-to-pdf.html
+
+91. File: /blog19.html
+   → Broken link: /pdf-compress.html
+
+92. File: /blog19.html
+   → Broken link: /pdf-merge.html
+
+93. File: /blog19.html
+   → Broken link: /heic-to-jpg.html
+
+94. File: /blog19.html
+   → Broken link: /jpg-to-pdf.html
+
+95. File: /blog19.html
+   → Broken link: /add-watermark-pdf.html
+
+96. File: /blog19.html
+   → Broken link: /add-pdf-password.html
+
+97. File: /blog19.html
+   → Broken link: /jpg-to-pdf.html
+
+98. File: /blog2.html
+   → Broken link: /pdf-to-word.html
+
+99. File: /blog2.html
+   → Broken link: /pdf-to-word.html
+
+100. File: /blog2.html
+   → Broken link: /pdf-merge.html
+
+101. File: /blog2.html
+   → Broken link: /pdf-compress.html
+
+102. File: /blog2.html
+   → Broken link: /word-to-pdf.html
+
+103. File: /blog2.html
+   → Broken link: /pdf-split.html
+
+104. File: /blog2.html
+   → Broken link: /pdf-to-word.html
+
+105. File: /blog2.html
+   → Broken link: /pdf-merge.html
+
+106. File: /blog2.html
+   → Broken link: /pdf-compress.html
+
+107. File: /blog20.html
+   → Broken link: /png-to-pdf.html
+
+108. File: /blog20.html
+   → Broken link: /add-watermark-pdf.html
+
+109. File: /blog20.html
+   → Broken link: /add-pdf-password.html
+
+110. File: /blog20.html
+   → Broken link: /png-to-pdf.html
+
+111. File: /blog20.html
+   → Broken link: /pdf-compress.html
+
+112. File: /blog20.html
+   → Broken link: /pdf-merge.html
+
+113. File: /blog20.html
+   → Broken link: /jpg-to-pdf.html
+
+114. File: /blog20.html
+   → Broken link: /png-to-pdf.html
+
+115. File: /blog20.html
+   → Broken link: /compress-image.html
+
+116. File: /blog20.html
+   → Broken link: /png-to-pdf.html
+
+117. File: /blog3.html
+   → Broken link: /ppt-to-pdf.html
+
+118. File: /blog3.html
+   → Broken link: /pdf-compress.html
+
+119. File: /blog3.html
+   → Broken link: /word-to-pdf.html
+
+120. File: /blog3.html
+   → Broken link: /pdf-to-word.html
+
+121. File: /blog3.html
+   → Broken link: /pdf-merge.html
+
+122. File: /blog4.html
+   → Broken link: /pdf-merge.html
+
+123. File: /blog4.html
+   → Broken link: /pdf-compress.html
+
+124. File: /blog4.html
+   → Broken link: /pdf-split.html
+
+125. File: /blog4.html
+   → Broken link: /add-pdf-password.html
+
+126. File: /blog4.html
+   → Broken link: /pdf-merge.html
+
+127. File: /blog4.html
+   → Broken link: /pdf-split.html
+
+128. File: /blog5.html
+   → Broken link: /add-pdf-password.html
+
+129. File: /blog5.html
+   → Broken link: /pdf-to-word.html
+
+130. File: /blog5.html
+   → Broken link: /word-to-pdf.html
+
+131. File: /blog5.html
+   → Broken link: /pdf-compress.html
+
+132. File: /blog6.html
+   → Broken link: /ppt-to-pdf.html
+
+133. File: /blog6.html
+   → Broken link: /pdf-compress.html
+
+134. File: /blog6.html
+   → Broken link: /pdf-merge.html
+
+135. File: /blog7.html
+   → Broken link: /jpg-to-pdf.html
+
+136. File: /blog7.html
+   → Broken link: /pdf-compress.html
+
+137. File: /blog7.html
+   → Broken link: /pdf-merge.html
+
+138. File: /blog7.html
+   → Broken link: /add-pdf-password.html
+
+139. File: /blog8.html
+   → Broken link: /add-pdf-password.html
+
+140. File: /blog8.html
+   → Broken link: /pdf-compress.html
+
+141. File: /blog8.html
+   → Broken link: /word-to-pdf.html
+
+142. File: /blog8.html
+   → Broken link: /pdf-merge.html
+
+143. File: /blog8.html
+   → Broken link: /word-to-pdf.html
+
+144. File: /blog9.html
+   → Broken link: /pdf-to-word.html
+
+145. File: /blog9.html
+   → Broken link: /word-to-pdf.html
+
+146. File: /blog9.html
+   → Broken link: /pdf-compress.html
+
+147. File: /tools/heic-to-jpg.html
+   → Broken link: /webp-to-jpg/
+
+148. File: /tools/jpg-to-heic.html
+   → Broken link: /png-to-heic/
+
+149. File: /tools/jpg-to-heic.html
+   → Broken link: /webp-to-heic/
+
+150. File: /tools/ocr-image-to-excel.html
+   → Broken link: /image-to-pdf/
+
+151. File: /tools/ocr-pdf-to-word.html
+   → Broken link: /merge-pdf/
+
+152. File: /tools/png-to-webp.html
+   → Broken link: /jpg-to-webp/
+
+153. File: /tools/ppt-to-images.html
+   → Broken link: /presentation-tools/
+
+154. File: /tools/svg-to-jpg.html
+   → Broken link: /webp-to-jpg/
+
+155. File: /tools/svg-to-png.html
+   → Broken link: /png-to-svg/
+
+156. File: /tools/txt-to-pdf.html
+   → Broken link: /pdf-to-txt/
+
+157. File: /tools/txt-to-pdf.html
+   → Broken link: /txt-to-word/
